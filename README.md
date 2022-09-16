@@ -7,13 +7,13 @@
 
 - 👯 I’m looking to collaborate on [Polywrap Python client](https://github.com/polywrap/toolchain/tree/nk/python-client)
 
-- 📝 I regularly write articles on [https://medium.com/@ompalsanawala241099](https://medium.com/@ompalsanawala241099)
+- 📝 I regularly write articles on [Medium](https://medium.com/@ompalsanawala241099)
 
 - 💬 Ask me about **Blockchains, Backend Frameworks, Databases, Frontend Frameworks**
 
 - 📫 How to reach me **ompalsanawala241099@gmail.com**
 
-- 📄 Know about my experiences [https://docs.google.com/document/d/1YROw7qflSGy7f7_Ls0ZCnghXOhoPtnWHZrnDoT04WX8/edit?usp=sharing](https://docs.google.com/document/d/1YROw7qflSGy7f7_Ls0ZCnghXOhoPtnWHZrnDoT04WX8/edit?usp=sharing)
+- 📄 Know about my experiences here in my [Google Drive Resume](https://docs.google.com/document/d/1YROw7qflSGy7f7_Ls0ZCnghXOhoPtnWHZrnDoT04WX8/edit?usp=sharing)
 
 - ⚡ Fun fact **I prefer tea**
 
