@@ -17,8 +17,6 @@
 
 - 📄 Know about my experiences here in my [Google Drive Resume](https://docs.google.com/document/d/1YROw7qflSGy7f7_Ls0ZCnghXOhoPtnWHZrnDoT04WX8/edit?usp=sharing)
 
-- ⚡ Fun fact **I prefer tea**
-
 <h3 align="left">Connect with me:</h3>
 <p align="left">
 <a href="https://linkedin.com/in/om-palsanawala" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/linked-in-alt.svg" alt="om-palsanawala" height="30" width="40" /></a>
