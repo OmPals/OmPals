@@ -1,4 +1,4 @@
-<h1 align="center">Hi 👋, I'm Om Palsanawala</h1>
+<h1 align="center">Hi 👋, I'm OM</h1>
 <h3 align="center">A Versatile Software Engineer with skills in APIs Development, Relational database performance tuning and query optimization, User Interface Development and Smart Contract Development. I am keen to learn more and dig deeper into Data Engineering and Zero Knowledge Proofs!</h3>
 
 <p align="left"> <img src="https://komarev.com/ghpvc/?username=ompals&label=Profile%20views&color=0e75b6&style=flat" alt="ompals" /> </p>
