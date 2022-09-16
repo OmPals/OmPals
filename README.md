@@ -11,7 +11,9 @@
 
 - 💬 Ask me about **Blockchains, Backend Frameworks, Databases, Frontend Frameworks**
 
-- 📫 How to reach me **ompalsanawala241099@gmail.com**
+- 📫 Reach me on my Gmail: **ompalsanawala241099@gmail.com**
+
+- 📫 Reach me on my LinkedIn: **https://www.linkedin.com/in/om-palsanawala**
 
 - 📄 Know about my experiences here in my [Google Drive Resume](https://docs.google.com/document/d/1YROw7qflSGy7f7_Ls0ZCnghXOhoPtnWHZrnDoT04WX8/edit?usp=sharing)
 
