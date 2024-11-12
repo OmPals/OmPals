@@ -3,10 +3,6 @@
 
 <p align="left"> <img src="https://komarev.com/ghpvc/?username=ompals&label=Profile%20views&color=0e75b6&style=flat" alt="ompals" /> </p>
 
-- 🌱 I’m currently learning **Solidity and Zk-SNARKs**
-
-- 👯 I’m looking to collaborate on [Polywrap Python client](https://github.com/polywrap/toolchain/tree/nk/python-client)
-
 - 📝 I regularly write articles on [Medium](https://medium.com/@ompalsanawala241099)
 
 - 💬 Ask me about **Blockchains, Backend Frameworks, Databases, Frontend Frameworks**
@@ -15,7 +11,7 @@
 
 - 📫 Reach me on my LinkedIn: **https://www.linkedin.com/in/om-palsanawala**
 
-- 📄 Know about my experiences here in my [Google Drive Resume](https://docs.google.com/document/d/1YROw7qflSGy7f7_Ls0ZCnghXOhoPtnWHZrnDoT04WX8/edit?usp=sharing)
+- 📄 Know about my experiences here in my [Google Drive Resume](https://docs.google.com/document/d/1xTjKDdsUqcDyVMcLYDetGjbAbsuf7P_9aovRiTmljEE/edit?tab=t.0)
 
 <h3 align="left">Connect with me:</h3>
 <p align="left">
