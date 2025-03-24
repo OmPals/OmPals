@@ -3,7 +3,7 @@
 
 <p align="left"> <img src="https://komarev.com/ghpvc/?username=ompals&label=Profile%20views&color=0e75b6&style=flat" alt="ompals" /> </p>
 
-- 📝 I regularly write articles on [Medium](https://dev.to/ompals)
+- 📝 I regularly write articles on [Dev.to](https://dev.to/ompals)
 
 - 💬 Ask me about **Blockchains, Backend Frameworks, Databases, Frontend Frameworks**
 
