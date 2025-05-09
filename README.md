@@ -3,7 +3,7 @@
 
 <p align="left"> <img src="https://komarev.com/ghpvc/?username=ompals&label=Profile%20views&color=0e75b6&style=flat" alt="ompals" /> </p>
 
-- 🏬 This is my personal blog website -> [omliftsnodes](https://omliftsnodes.netlify.app/)
+- 🏬 This is my personal portfolio website -> [omliftsnodes](https://omliftsnodes.netlify.app/)
 
 - 📝 I regularly write articles on [Dev.to](https://dev.to/ompals)
 
